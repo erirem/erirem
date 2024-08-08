@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İrem</h1>
-<h3 align="center">A passionate computer engineering student and software developer from Turkey.</h3>
+<h3 align="center" style="color: #3498db;">A passionate computer engineering student and software developer from Turkey.</h3>
 
 - 🔭 I’m currently working on **an iOS app using Flutter.**
 
