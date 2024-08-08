@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced Flutter for iOS development Deepening my knowledge of Artificial Intelligence and its application.s Improving my SQL and backend development skills Exploring modern frontend frameworks and tools**
 
-- ⚡ Fun fact **I can't say "komodinimin" properly—it always comes out as a fun challenge!**
+- ⚡ Fun fact **I can't pronounce "komodinimin" properly—it always turns into a fun challenge!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
