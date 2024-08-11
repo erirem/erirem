@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an iOS app using Flutter.**
 
-- 🌱 I’m currently learning **Advanced Flutter for iOS development Deepening my knowledge of Artificial Intelligence and its application.s Improving my SQL and backend development skills Exploring modern frontend frameworks and tools**
+- 🌱 I’m currently learning **Advanced Flutter for iOS development Deepening my knowledge of Artificial Intelligence and its applications Improving my SQL and backend development skills Exploring modern frontend frameworks and tools**
 
 - ⚡ Fun fact **I can't pronounce "komodinimin" properly—it always turns into a fun challenge!**
 
