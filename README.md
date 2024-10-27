@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm İrem</h1>
 <h3 align="center"><span style="color: #3498db;">A passionate computer engineering student and software developer from Turkey.</span></h3>
 
-- 🔭 I’m currently working on **an iOS app using Flutter.**
+- 🔭 I’m currently working on an AI-powered educational project for the **BTK Hackathon 2024** 🚀  
+The project aims to build an advanced micro-learning system using AI for personalized education.
+🔒 Repository is private for now due to the competition, but I will share updates soon!
 
 - 🌱 I’m currently learning **Advanced Flutter for iOS development Deepening my knowledge of Artificial Intelligence and its applications Improving my SQL and backend development skills Exploring modern frontend frameworks and tools**
 
