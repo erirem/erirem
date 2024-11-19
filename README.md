@@ -6,7 +6,7 @@
    * Built using Flutter for cross-platform compatibility 🌍.
    * Exciting feature: Integrating speech recognition to make habit tracking even more accessible and fun! 🎙️
 
-👉 Check out the repository: <a href="https://github.com/ElifHorozal/LittleSteps" target="_blank">Little Steps</a>
+  👉 Check out the repository: <a href="https://github.com/ElifHorozal/LittleSteps" target="_blank">Little Steps</a>
 
 - 🌱 I’m currently learning:
   * Advanced **Flutter** for multi-platform development  
