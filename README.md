@@ -4,18 +4,18 @@
 - Little Steps - A habit tracker project developed with my friend <a href="https://github.com/ElifHorozal" target="_blank">ElifHorozal</a>.🚀  
 The project aims to build an advanced micro-learning system using AI for personalized education.
 
-- Using Flutter for cross-platform support, we aim to create an intuitive app that helps users build and maintain habits. 🚀
+  Using Flutter for cross-platform support, we aim to create an intuitive app that helps users build and maintain habits. 🚀
 
 🗣️ Exciting feature: We're integrating speech recognition to make habit tracking even more accessible and fun!
 
 👉 Check out the repository: Little Steps GitHub Repository
 
 - 🌱 I’m currently learning:
-- Advanced **Flutter** for multi-platform development
-- Exploring **speech recognition** APIs and AI integration
-- Deepening my knowledge of **Artificial Intelligence** and its applications
-- Enhancing my **backend development skills** with **SQL**
-- Experimenting with modern **frontend frameworks and tools**
+ Advanced **Flutter** for multi-platform development
+ Exploring **speech recognition** APIs and AI integration
+ Deepening my knowledge of **Artificial Intelligence** and its applications
+ Enhancing my **backend development skills** with **SQL**
+ Experimenting with modern **frontend frameworks and tools**
 
 - ⚡ Fun fact **I can't pronounce "komodinimin" properly—it always turns into a fun challenge!**
 
