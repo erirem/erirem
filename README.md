@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İrem</h1>
+  <h1 align="center">Hi 👋, I'm İrem</h1>
 <h3 align="center"><span style="color: #3498db;">A passionate computer engineering student and software developer from Turkey.</span></h3>
 
 - Little Steps - A habit tracker project developed with my friend <a href="https://github.com/ElifHorozal" target="_blank">ElifHorozal</a>.🚀  
@@ -11,11 +11,11 @@ The project aims to build an advanced micro-learning system using AI for persona
 👉 Check out the repository: Little Steps GitHub Repository
 
 - 🌱 I’m currently learning:
- Advanced **Flutter** for multi-platform development
- Exploring **speech recognition** APIs and AI integration
- Deepening my knowledge of **Artificial Intelligence** and its applications
- Enhancing my **backend development skills** with **SQL**
- Experimenting with modern **frontend frameworks and tools**
+  Advanced **Flutter** for multi-platform development
+  Exploring **speech recognition** APIs and AI integration
+  Deepening my knowledge of **Artificial Intelligence** and its applications
+  Enhancing my **backend development skills** with **SQL**
+  Experimenting with modern **frontend frameworks and tools**
 
 - ⚡ Fun fact **I can't pronounce "komodinimin" properly—it always turns into a fun challenge!**
 
