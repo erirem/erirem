@@ -2,9 +2,9 @@
 <h3 align="center"><span style="color: #3498db;">A passionate computer engineering student and software developer from Turkey.</span></h3>
 
 - Little Steps - A habit tracker project developed with my friend <a href="https://github.com/ElifHorozal" target="_blank">ElifHorozal</a>.🚀  
- * The project also aims to build an advanced micro-learning system using AI for personalized education.
- * Built using Flutter for cross-platform compatibility 🌍.
- * Exciting feature: Integrating speech recognition to make habit tracking even more accessible and fun! 🎙️
+   * The project also aims to build an advanced micro-learning system using AI for personalized education.
+   * Built using Flutter for cross-platform compatibility 🌍.
+   * Exciting feature: Integrating speech recognition to make habit tracking even more accessible and fun! 🎙️
 
 👉 Check out the repository: <a href="https://github.com/ElifHorozal/LittleSteps" target="_blank">Little Steps</a>
 
