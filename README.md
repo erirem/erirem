@@ -3,7 +3,7 @@
 
 ### 🚀 About Me
 - 🎓 **Computer Engineering Student** at Eskişehir Technical University (Expected Graduation: June 2025).
-- 💻 **Junior Full Stack Developer** at Softwer Malta, working on backend services, JWT authentication, Redis caching, and API development.
+- 💻 **Full Stack Developer** at Softwer Malta, working on backend services, JWT authentication, Redis caching, and API development.
 - 🤖 **AI Enthusiast**, exploring deep learning, machine learning, and AI-powered applications.
 - 🌍 Open to **collaborations** and exciting tech challenges.
 
@@ -28,7 +28,7 @@
 > A web-based task and project management system for startups.
 - 💡 **Key Features**:
   - Task tracking, team collaboration, Kanban board.
-  - Built with React.js, Node.js, and PostgreSQL.
+  - Built with React.js, Node.js, and MongoDB.
 - 🚀 **Status**: In development for internal company use.
 
 #### 📌 **AI Hackathon Projects**
@@ -38,11 +38,7 @@
 ---
 
 ### 🌱 I’m Currently Learning:
-- 📱 Advanced **Flutter** development for cross-platform apps.
-- 🧠 AI-driven app enhancements & **Machine Learning** applications.
 - 🌐 Scalable **backend development** with **SQL, Redis, and Docker**.
-- 🚀 Exploring **speech recognition APIs** for real-time AI interactions.
-
 ---
 
 ### 📬 Connect With Me:
