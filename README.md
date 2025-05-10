@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İrem</h1>
-<h3 align="center"><span style="color: #3498db;">A passionate software developer and AI enthusiast from Turkey.</span></h3>
+<h3 align="center"><span style="color: #3498db;">A passionate Jr. Full Stack Developer and AI enthusiast from Turkey.</span></h3>
 
 ### 🚀 About Me
 - 🎓 **Computer Engineering Student** at Eskişehir Technical University (Expected Graduation: June 2025).
@@ -66,5 +66,4 @@
 
 ---
 
-⚡ **Fun fact**: I still struggle to pronounce "komodinimin" properly—it always turns into a fun challenge! 😆
 
