@@ -2,11 +2,15 @@
 <h3 align="center"><span style="color: #3498db;">A passionate Jr. Full Stack Developer and AI enthusiast from Turkey.</span></h3>
 
 ### 🚀 About Me
-- 🎓 **Computer Engineering Student** at Eskişehir Technical University (Expected Graduation: June 2025).
-- 💻 **Full Stack Developer** at Softwer Malta, working on backend services, JWT authentication, Redis caching, and API development.
-- 🤖 **AI Enthusiast**, exploring deep learning, machine learning, and AI-powered applications.
-- 🌍 Open to **collaborations** and exciting tech challenges.
-
+- 🎓 Computer Engineering Student @ Eskişehir Technical University (Graduation: 2025)  
+- 💻 Full Stack Developer @ Softwer Malta (Backend services, JWT, Redis, APIs)  
+- 🛠 Backend Development Intern @ Jotform (Team Platform)  
+   - Built and extended APIs for the **Canva AI Agents App**  
+   - Worked on JWT-based authentication, middleware, and secure integrations  
+   - Gained hands-on experience in scalable backend architecture and AI-powered apps  
+- 🤖 Passionate about AI, deep learning & intelligent applications  
+- 🌍 Open to collaborations & new challenges
+- 
 ---
 
 ### 🛠️ Projects
@@ -15,14 +19,6 @@
 > A mobile app that lets users share opinions on trending topics in a structured discussion format.
 - 🏗 **Tech Stack**: Flutter (mobile), React (admin panel), PostgreSQL, Firebase, AI Integration.
 - 🚀 **Status**: Backend completed, currently developing the forum page.
-
-#### 📌 **Little Steps - AI-Powered Habit Tracker**
-> A cross-platform habit-tracking app aiming to integrate AI for micro-learning and motivation.
-- 💡 **Key Features**:
-  - AI-based personalized habit insights.
-  - Speech recognition for hands-free habit tracking.
-- 🛠 **Tech Stack**: Flutter, Firebase, Speech Recognition API.
-- 🔗 [GitHub Repository](https://github.com/ElifHorozal/LittleSteps)
 
 #### 📌 **Jira-Like Project Management Tool**
 > A web-based task and project management system for startups.
@@ -38,7 +34,7 @@
 ---
 
 ### 🌱 I’m Currently Learning:
-- 🌐 Scalable **backend development** with **SQL, Redis, and Docker**.
+- 🌐 Scalable **backend development** with **PHP, Redis and Docker**.
 ---
 
 ### 📬 Connect With Me:
@@ -55,6 +51,9 @@
 
 ### 🛠 Languages & Tools:
 <p align="left"> 
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
+  </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a> 
